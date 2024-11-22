@@ -7,8 +7,7 @@
     "mycli": "./bin/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "staged-en": "mycli staged --path D:/PROJECT/pc.makevideoclip.com"
+    "staged": "mycli staged"
   },
   "keywords": [
     "cli",
